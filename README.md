@@ -1,10 +1,6 @@
 # Frontend-developer-tools
 Debugging &amp; Testing, Versioning &amp; Cloud Storage, Libraries &amp; Plugins, CSS &amp; HTML5 Frameworks,Browser Addons
 
-
-Frontdesk
-=========
-
 Community driven list of useful things for front-end developers. [How to contribute?](https://github.com/miripiruni/frontdesk/blob/master/CONTRIBUTING.md)
 
 ## Table of contents
